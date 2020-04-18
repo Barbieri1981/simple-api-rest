@@ -9,5 +9,7 @@ mvn spring-boot:run
 Check where the Tomcat has started for example:   
  Tomcat started on port(s): 8080 (http)   
  Use Swagger UI   
- Link: http://localhost:8080/swagger-ui.html
+ Link: http://localhost:8080/swagger-ui.html    
+ If you want you can use Postman   
+ https://www.postman.com/
 
